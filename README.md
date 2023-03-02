@@ -22,9 +22,8 @@ Assuming you are weithin the folder you installed into, use the terminal to get 
 
 ## Walkthrough Tutorial
 [Click Here]() to watch the walkthrough tutorial.
-![picture1](![specificproductget](https://user-images.githubusercontent.com/116473087/222463083-3f28254b-340b-4aed-b8b3-3e8c6137c8c4.png)
-)
 
+![specificproductget](https://user-images.githubusercontent.com/116473087/222463262-9fee2402-cfc9-498f-9b84-fa60c6aae41a.png)
 
 
 ## Test Instructions
