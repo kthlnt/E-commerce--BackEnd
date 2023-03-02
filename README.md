@@ -21,7 +21,7 @@ Download the e-commerce-orm repository. Navigate to the folder in terminal, then
 Assuming you are weithin the folder you installed into, use the terminal to get logged into mysql, then type "source db/schema.sql", next type "USE ecommerce_db". Then create a new terminal navigated to the same folder, enter "npm run seed" into the command line, then "npm start".
 
 ## Walkthrough Tutorial
-[Click Here]() to watch the walkthrough tutorial.
+[Click Here](https://drive.google.com/file/d/1VZcCLvuXqMjv5p9XXVQtSVi7Xn-PPZbW/view) to watch the walkthrough tutorial.
 
 ![specificproductget](https://user-images.githubusercontent.com/116473087/222463262-9fee2402-cfc9-498f-9b84-fa60c6aae41a.png)
 
